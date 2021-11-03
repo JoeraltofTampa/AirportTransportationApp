@@ -1,0 +1,16 @@
+com/example/se300/ShuttleFragment.java
+ com.example.se300.ShuttleFragment
+com/example/se300/ParkingFragment.java
+ com.example.se300.ParkingFragment
+com/example/se300/RideSharesFragment.java
+ com.example.se300.RideSharesFragment
+com/example/se300/MainActivity.java
+ com.example.se300.MainActivity
+com/example/se300/HomeFragment.java
+ com.example.se300.HomeFragment
+com/example/se300/RentalCarsFragment.java
+ com.example.se300.RentalCarsFragment
+com/example/se300/BuildConfig.java
+ com.example.se300.BuildConfig
+com/example/se300/ViewPagerFragmentAdapter.java
+ com.example.se300.ViewPagerFragmentAdapter
